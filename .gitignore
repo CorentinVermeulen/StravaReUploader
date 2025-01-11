@@ -1,6 +1,7 @@
 gpx_files
 secret.py
 .idea
+*.csv
 
 # Default ignored files
 /shelf/
